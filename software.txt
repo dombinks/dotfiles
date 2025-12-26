@@ -1,3 +1,6 @@
+iptables
+ufw
+# networkmanager
 man-db
 man-pages
 texinfo
@@ -5,22 +8,17 @@ pacman
 yay
 git
 gcc
-python
 zsh
-xfce4
-i3-wm
-i3blocks
-i3lock-color
-i3status
-# tlp
-# tlpui
-# powertop
+gnome
+sway-bin
+tlp
+tlpui
 ttf-font-awesome
 noto-fonts
 noto-fonts-emoji
 noto-fonts-cjk
-ibus
-ibus-mozc
+# ibus
+# ibus-mozc
 gparted
 rofi
 arandr
@@ -31,14 +29,12 @@ unzip
 feh
 ntfs-3g
 pdftk
-xfce4-terminal
 tmux
 vim
 neovim
 neofetch
 onefetch
 filezilla
-galculator
 vlc
 gimp
 obs-studio
@@ -47,15 +43,18 @@ spotify
 discord
 nordvpn-bin
 libreoffice-still
-anki
+anki-bin
 obsidian
-balena-etcher
+usbimager
 rpi-imager
 arduino
 valgrind
+python
 jdk-openjdk
 go
 rust
+scala
+ghc
 npm
 python-pip
 visual-studio-code-bin
@@ -69,6 +68,5 @@ ripgrep
 cmake
 htop
 python-tqdm
-scala
 arduino-ide
 python-pyserial
